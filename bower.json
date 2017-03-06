@@ -1,0 +1,21 @@
+{
+  "name": "integer-input",
+  "authors": [
+    "Zaheer <zaheer.aws@gmail.com>"
+  ],
+  "description": "Force an input to produce integer model",
+  "main": "angular-integer-input.js",
+  "keywords": [
+    "force",
+    "integer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
