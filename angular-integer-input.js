@@ -1,5 +1,4 @@
-//
-integer-input
+//integer-input
 // ==================
 //
 // Directive that makes the inputs with `integer` to be
